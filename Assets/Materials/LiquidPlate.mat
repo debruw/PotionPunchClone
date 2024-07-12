@@ -51,6 +51,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
+    - _BubbleSpeed: 0.1
     - _BubbleTransparency: 0.124
     - _Fill: 0
     - _QueueControl: 0
@@ -58,11 +59,14 @@ Material:
     - _Random: 0
     - _Speed: 0.1
     - _UseBubble: 0
+    - _UseWave: 1
+    - _WaveHeight: 5
+    - _WaveSpeed: 0.239
     - _WobbleX: 0
     - _WobbleZ: 0
     m_Colors:
-    - _Color: {r: 0, g: 0.638464, b: 1, a: 1}
-    - _OutMinMax: {r: 0, g: 0.06, b: 0, a: 0}
+    - _Color: {r: 0, g: 0.6392157, b: 1, a: 1}
+    - _OutMinMax: {r: 0, g: 0.05, b: 0, a: 0}
     - _SideColor: {r: 0, g: 0.37519643, b: 0.8396226, a: 1}
     - _TopColor: {r: 0, g: 0.5596247, b: 1, a: 1}
   m_BuildTextureStacks: []

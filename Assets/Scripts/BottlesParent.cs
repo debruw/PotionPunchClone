@@ -12,7 +12,7 @@ namespace DefaultNamespace
         {
             for (int i = 0; i < bottles.Length; i++)
             {
-                bottles[i].SetColor(Colors[i]);
+                bottles[i].COLOR = Colors[i];
             }
         }
     }

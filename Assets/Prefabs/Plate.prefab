@@ -108,6 +108,9 @@ MonoBehaviour:
   bottlesLayer:
     serializedVersion: 2
     m_Bits: 64
+  MugsLayer:
+    serializedVersion: 2
+    m_Bits: 128
 --- !u!64 &1502871325331393969
 MeshCollider:
   m_ObjectHideFlags: 0
